@@ -3,7 +3,7 @@
 
 > * Group Name: (be creative!)
 > * Group participants names: Faulkner, Erica; Levin, Ethan; McFarland, Chris
-> * Project Title: (can be changed later)
+> * Project Title: VR vs. PPT for Pilot Training
 
 ## General Introduction
 

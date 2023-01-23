@@ -2,7 +2,7 @@
 (text between brackets to be removed)
 
 > * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
+> * Group participants names: Faulkner, Erica; Levin, Ethan; McFarland, Chris
 > * Project Title: (can be changed later)
 
 ## General Introduction

@@ -1,4 +1,4 @@
-# Research Practicum 2018 – Research Plan (Template)
+# Research Practicum 2023 – Research Plan
 (text between brackets to be removed)
 
 > * Group Name: (be creative!)

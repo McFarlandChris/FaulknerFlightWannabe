@@ -1,4 +1,4 @@
-# Research Practicum 2023 – Research Plan
+# Research Practicum Spring 2023 – Research Plan
 (text between brackets to be removed)
 
 > * Group Name: (be creative!)

@@ -1,7 +1,7 @@
 # Research Practicum Spring 2023 – Research Plan
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
+> * Group Name: Cockpit Commander
 > * Group participants names: Faulkner, Erica; Levin, Ethan; McFarland, Chris
 > * Project Title: VR vs. PPT for Pilot Training
 

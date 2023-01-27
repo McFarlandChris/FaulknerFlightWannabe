@@ -30,6 +30,13 @@
 
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
+(Will combine into a clear background of related work after lit review is complete by team members)
+
+Prepar3D (P3D) is a simulation software designed by Lockheed Martin and is a viable gaming and training software that possesses a multitude of uses for the military. Lockheed Martin plays a significant role in military development already and this software just adds to their previous accomplishments. Prepar3D provides a wide range of scenarios and a virtual world consisting of over 40 highly detailed cities and nearly 25,000 already developed airports. Additional capabilities of this software are the ability to transition from day to night and adjust weather conditions for different training scenarios. 
+
+Visual capabilities of this software outperform many other capable VR driving software currently on the market because of their 64-bit architecture enabling higher resolution and the ability for improved performance with the proper equipment. Necessary equipment to fulfill this capability will be discussed later in this document. With the customizable atmosphere and realistic topography VR training capabilities are possible anywhere in the world that we can use the World Geodetic System 1984 (WGS-84) navigation convention. This navigational approach allows for an extremely precise spatial reference with a degree of accuracy of less than two centimeters of error. This is also the same system we use in our current aircraft and across the Army. 
+
+
 ## References 
 
 (Add the bibliographic references you intend to use in format you want)

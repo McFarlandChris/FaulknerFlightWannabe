@@ -39,7 +39,10 @@ Visual capabilities of this software outperform many other capable VR driving so
 
 ## References 
 
-(Add the bibliographic references you intend to use in format you want)
+Prepar3D product overview. Prepar3D. (n.d.). Retrieved Janurary 20, 2023, from https://www.prepar3d.com/product-overview/
+
+World Geodetic System (WGS84). GIS Geography. (2022, May 28). Retrieved Janurary 25, 2023, from https://gisgeography.com/wgs84-world-geodetic-system/  
+
 
 
 

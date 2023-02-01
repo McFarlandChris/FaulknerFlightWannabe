@@ -39,6 +39,14 @@ Visual capabilities of this software outperform many other capable VR driving so
 
 ## References 
 
+Makransky, G., Terkildsen, T. S., & Mayer, R. E. (2019). Adding immersive virtual reality to a science lab simulation causes more presence but less learning. Learning and Instruction, 60, 225–236. https://doi.org/10.1016/j.learninstruc.2017.12.007 
+
+Moreno, R., & Mayer, R. E. (2002). Learning science in virtual reality multimedia environments: Role of methods and media. Journal of Educational Psychology, 94(3), 598–610. https://doi.org/10.1037/0022-0663.94.3.598
+
+Parong, J., & Mayer, R. E. (2018). Learning science in immersive virtual reality. Journal of Educational Psychology, 110(6), 785–797. https://doi.org/10.1037/edu0000241
+
+Parong, J., & Mayer, R. E. (2021). Cognitive and affective processes for learning science in immersive virtual reality. Journal of Computer Assisted Learning, 37(1), 226–241. https://doi.org/10.1111/jcal.12482
+
 Prepar3D product overview. Prepar3D. (n.d.). Retrieved Janurary 20, 2023, from https://www.prepar3d.com/product-overview/
 
 World Geodetic System (WGS84). GIS Geography. (2022, May 28). Retrieved Janurary 25, 2023, from https://gisgeography.com/wgs84-world-geodetic-system/  

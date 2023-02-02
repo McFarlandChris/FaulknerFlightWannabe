@@ -47,10 +47,11 @@ Parong, J., & Mayer, R. E. (2018). Learning science in immersive virtual reality
 
 Parong, J., & Mayer, R. E. (2021). Cognitive and affective processes for learning science in immersive virtual reality. Journal of Computer Assisted Learning, 37(1), 226–241. https://doi.org/10.1111/jcal.12482
 
+Philippe, S., Souchet, A., Lameras, P., & Petridis, P. (2020). Multimodal teaching, learning and training in virtual reality: A review and case study. Virtual Reality & Intelligent Hardware, 2(5), 421-442. https://doi.org/10.1016/j.vrih.2020.07.008
+
 Prepar3D product overview. Prepar3D. (n.d.). Retrieved Janurary 20, 2023, from https://www.prepar3d.com/product-overview/
 
 World Geodetic System (WGS84). GIS Geography. (2022, May 28). Retrieved Janurary 25, 2023, from https://gisgeography.com/wgs84-world-geodetic-system/  
-
 
 
 

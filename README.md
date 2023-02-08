@@ -15,6 +15,8 @@
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
 
+(Explain independent and dependent variables)
+
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
 (Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)

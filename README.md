@@ -13,6 +13,12 @@
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
+Army Aviation consists of multiple levels of training, but all have one thing in common in that all Army qualified Aviators have graduated from the Basic Army Aviator Course (BAAC) at Fort Rucker, AL. This course is twenty-two weeks in length give or take a few days for weather delays in flight training. During this time prospective graduates are maintained on cohort schedule regardless of progression speed and capabilities. All training events during this time are completed by an Instructor Pilot (IP) and all students must complete this training, also known as Phase 1 of Army Aviator training. 
+
+There have been several studies and assessments completed by the Army over the last 20 years on how to best train combat aviators but very little focus on training being completed through the use of Virtual Reality (VR) and how it effects comprehension and trainability of future aviators. Previous research on the use of VR has been completed through a project call Aviator Training Next (ATN) which included three-hour increments of training in a new simulation device designed and researched during a one your research project conducted on Fort Rucker, AL. 
+
+This ATN research had a primary research question of does VR provide a viable training tool for Army Aviation? With a resounding answer of yes to this question our group looks to build upon this research and identify a comparison of how students learn from a Power Point vice using the VR to train basic flight maneuvers prior to conducting live flight. 
+
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
 
 (Explain independent and dependent variables)

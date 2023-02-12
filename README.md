@@ -21,9 +21,13 @@ This ATN research had a primary research question of does VR provide a viable tr
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
 
+Determine the propensity to produce a higher quality Army Aviator through the integration of a Virtual Reality Head Mounted Display (VR HMD) in combination with commercial off the shelf (COTS) flight software and cockpit simulators to compare training capabilities with students that receive the same instruction Power Point presentations only.
+
 (Explain independent and dependent variables)
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
+
+Flight training is iherently expensive and both military and civilian organizations are looking for ways to reduce their budget. The question is how do you safely reduce the budget and live flight time safely. This study is not designed to provide that final answer, however provide some foundational information to show that VR is a viable training tool and can provide a more robust training capability instead of students sitting in a class room learining from PPT lectures. 
 
 (Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
 

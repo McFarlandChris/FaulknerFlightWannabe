@@ -58,7 +58,7 @@ What is VR?
   
 	Admittedly there will be challenges with the incorporation of VR as a training tool with technical and cultural as the two primary concerns. The technical challenges we will address later in this document and cultural challenges can be overcome with proper training on the equipment given to the instructor pilots (IPs) prior to the implementation of VR as a training tool. Cultural challenges were a huge concern with any change in current training approaches.
   
-	Not all VR is of the same quality and of course as the quality increases so does the price, however costs continue to decrease with the rapid pace of technological innovations. The Army is in constant transition, and is being left in the wake of current technological capabilities. Using VR as described in this study with the proper equipment is a viable option to augment the current training model for both classroom and flight training. 
+	Not all VR is of the same quality and of course as the quality increases so does the price, however costs continue to decrease with the rapid pace of technological innovations. The Army is in constant transition and is being left in the wake of current technological capabilities. Using VR as described in this study with the proper equipment is a viable option to augment the current training model for both classroom and flight training. 
   
 COMPONENT DESCRIPTION
 Prepar3D (P3D)

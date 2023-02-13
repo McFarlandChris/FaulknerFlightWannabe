@@ -46,7 +46,7 @@ Quantitative analysis leverages a combination of experimental design and quasi-e
 ## Related Work
 
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
-
+COMPONENT DESCRIPTION
 What is VR?
 	This section is designed merely to give you the reader a brief explanation of what VR is and how that definition pertains to this study. It is not intended to delve deep into the subject of defining a virtual environment, of which has multiple definitions of its own. 
   
@@ -60,13 +60,7 @@ What is VR?
   
 	Not all VR is of the same quality and of course as the quality increases so does the price, however costs continue to decrease with the rapid pace of technological innovations. The Army is in constant transition and is being left in the wake of current technological capabilities. Using VR as described in this study with the proper equipment is a viable option to augment the current training model for both classroom and flight training. 
   
-COMPONENT DESCRIPTION
-Prepar3D (P3D)
-  Prepar3D (P3D) is a simulation software designed by Lockheed Martin and is a viable gaming and training software that possesses a multitude of uses for the military. Lockheed Martin plays a significant role in military development already and this software just adds to their previous accomplishments. Prepar3D provides a wide range of scenarios and a virtual world consisting of over 40 highly detailed cities and nearly 25,000 already developed airports. Additional capabilities of this software are the ability to transition from day to night and adjust weather conditions for different training scenarios. 
 
-  Visual capabilities of this software outperform many other capable VR driving software currently on the market because of their 64-bit architecture enabling higher resolution and the ability for improved performance with the proper equipment. Necessary equipment to fulfill this capability will be discussed later in this document. With the customizable atmosphere and realistic topography VR training capabilities are possible anywhere in the world that we can use the World Geodetic System 1984 (WGS-84) navigation convention. This navigational approach allows for an extremely precise spatial reference with a degree of accuracy of less than two centimeters of error. This is also the same system we use in our current aircraft and across the Army.
-
-  Although this software is a commercial of the shelf (COTS) product there are some limitations for the Army to use as a training tool. Each computer that this software is loaded on must have its own individual license and for a unit such as the Directorate of Simulation (DOS) to adjust the scenarios or flight models they must possess a developer license. Scenrios for this study were developed by a previous VR research conducted on the capabilities of use in flight training and PPT training was developed by the team members of this research project.  
 
 
 ## References 

@@ -105,6 +105,8 @@ Philippe, S., Souchet, A., Lameras, P., & Petridis, P. (2020). Multimodal teachi
 
 Prepar3D product overview. Prepar3D. (n.d.). Retrieved Janurary 20, 2023, from https://www.prepar3d.com/product-overview/
 
+VIVETM | VIVE Ready Computers. (n.d.). Retrieved Janurary 25, 2023, from https://www.vive.com/us/ready/
+
 World Geodetic System (WGS84). GIS Geography. (2022, May 28). Retrieved Janurary 25, 2023, from https://gisgeography.com/wgs84-world-geodetic-system/  
 
 

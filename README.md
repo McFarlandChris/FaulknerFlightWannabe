@@ -31,6 +31,11 @@ Flight training is iherently expensive and both military and civilian organizati
 
 (Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
 
+Quantitative analysis leverages a combination of experimental design and quasi-experimental design research. This experiment is composed of a two experimental groups of 24 students, groups A and B, which are composed of 12 students each. Group A will conduct training through the use of PPT only and be tested in the VR device. Group B will conduct training in VR and be tested in the VR device as well. All testing will be conducted at Fort Rucker, AL and be managed by the Directorate of Simulation for the United States Army Aviation Center of Excellence. 
+
+""List the testing plan here""
+
+
 (Contributions. An enumeration of the contributions of the senior design project)
 
 (This project makes the following contributions:)(you must have this!!)

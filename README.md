@@ -71,6 +71,20 @@ Visual capabilities of this software outperform many other capable VR driving so
 
 Although this software is a commercial of the shelf (COTS) product there are some limitations for the Army to use as a training tool. Each computer that this software is loaded on must have its own individual license and for a unit such as the Directorate of Simulation (DOS) to adjust the scenarios or flight models they must possess a developer license. Scenrios for this study were developed by a previous VR research conducted on the capabilities of use in flight training and PPT training was developed by the team members of this research project.  
 
+Hellimod Mark III
+
+The Helimod device used in this research is a motion capable seat augmented with flight controls. The motion capability was not used for this research because the primary focus of this study is a comparison between VR and PPT. The Helimod’s full name is the Helimod Mark III and is designed by the Australian based company Ryan Aerospace. These same devices were used during the ATN testing and currently have generic flight controls that do not currently use any of the possible buttons or switches during this test. 
+
+The Helimod device works just as a standard joystick would work as a plug and play device. It is designed to be recognized by the computer as soon as it is plug in to the USB port on any computer. The computer will recognize the Helimod as a game controller and does have a capability of calibrating the control input to the desired sensitivity. 
+
+The necessary space for using this device for testing and future training is minimal and the current setup for testing included two devices next to each other with approximately four feet between each device for safety while entering and exiting. 
+
+HTC Vive Pro
+
+The primary tool used in this research and comparison is the head mounted display (HMD). For this research project the HMD of choice is the HTC Vive Pro produced by the HTC Company. The HTC Vive Pro is an evolution of the original Vive product and bolsters a field of view (FOV) of 110 degrees. A significant attribute to this HMD is that both the eye relief (distance between eyes and device) and interpupillary distance (IPD) are adjustable. This provides for a more individualized fitting and can make the training experience more enjoyable. The HTC Vive Pro is an excellent choice for using in this test because it is designed to work with SteamVR which is already installed and developed to work in conjunction with P3D. SteamVR is a well-known gaming platform that allows for many other gaming functions to include linked capabilities however we will not discuss nor test those options in this project. Minimum recommended computer requirements can be found in Figure 3. 
+
+
+
   
 
 

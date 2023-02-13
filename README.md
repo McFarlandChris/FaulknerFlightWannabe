@@ -46,8 +46,11 @@ Quantitative analysis leverages a combination of experimental design and quasi-e
 ## Related Work
 
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
+
 COMPONENT DESCRIPTION
+
 What is VR?
+
 This section is designed merely to give you the reader a brief explanation of what VR is and how that definition pertains to this study. It is not intended to delve deep into the subject of defining a virtual environment, of which has multiple definitions of its own. 
   
 Virtual reality is not necessarily a new phenomenon in the technology business however it continues to develop at a rapid pace to include the viability as a training tool. Virtual reality is simply put, a technology based on a computer that displays an input developed to an output from a computer designed to provide the user with an environment that reflects the real world (Gandhi, n.d.) and is a way to use computers to bring the digital world to life. This can include multiple senses being used simultaneously such as seeing, hearing, and touch. This is done using sights, sounds, and our sense of balance to immerse the user into a 100% digital world. An even more simple approach to this definition can be defined as using models and simulations computer equipment that allows a person to interact with an artificial 3D environment (Gandhi, n.d.).

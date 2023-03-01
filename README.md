@@ -18,6 +18,26 @@ The independent variable is the method of training. The methods of training incl
 
 Flight training is inherently expensive, and thus both military and civilian organizations are looking for ways to reduce their budget. The question remains: How do you safely reduce both the budget and live flight-time safely? This study is not designed to provide that final answer, however it should provide some foundational information to show that VR is a viable training tool and can provide a more robust training capability, instead of students sitting in a classroom learning from slideshow lectures. 
 
+Study Timeline for Powerpoint:
+
+Complete informed consent, demographic survey, and Baseline Simulator Sickness Questionnaire (SSQ): 15 minutes
+Conduct Training in PPT: 15 minutes
+Conduct Prepared 3D (P3D) simulated flight exam in VR: 10 minutes
+Graded by Instructor Pilot
+Complete SSQ #2: 5 minutes
+Debrief: 5 minutes
+Total Time: 50 minutes
+
+Study Timeline for VR Device:
+
+Complete informed consent, demographic survey, and Baseline Simulator Sickness Questionnaire (SSQ): 15 minutes
+Conduct Training in Prepared 3D (P3D) simulated flight in VR: 15 minutes
+Complete SSQ #2: 5 minutes
+Conduct Prepared 3D (P3D) simulated flight exam in VR: 10 minutes
+Graded by Instructor Pilot
+Complete SSQ #3: 5 minutes
+Debrief: 5 minutes
+Total Time: 55 minutes
 
 Quantitative analysis leverages a combination of experimental design and quasi-experimental design research. This experiment is composed of two experimental groups of 24 students, groups A and B, which are composed of 12 students each. Group A will conduct training through the use of PPT only and be tested in the VR device. Group B will conduct training in VR and be tested in the VR device as well. All testing will be conducted at Fort Rucker, AL and be managed by the Directorate of Simulation for the United States Army Aviation Center of Excellence. 
 

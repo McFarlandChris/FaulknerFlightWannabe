@@ -5,13 +5,6 @@
 > * Group participants names: Faulkner, Erica; Levin, Ethan; McFarland, Chris
 > * Project Title: VR vs. PPT for Pilot Training
 
-## General Introduction
-
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
-
-(I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
 Army Aviation consists of multiple levels of training, but all have one thing in common in that all Army qualified Aviators have graduated from the Basic Army Aviator Course (BAAC) at Fort Rucker, AL. This course is twenty-two weeks in length (give or take a few days for weather delays in flight training). During this time prospective graduates are maintained on cohort schedule, regardless of progression speed and capabilities. All training events during this time are completed by an Instructor Pilot (IP), and all students must complete this training, also known as Phase 1 of Army Aviator training. 
 
@@ -19,33 +12,22 @@ There have been several studies and assessments completed by the Army over the l
 
 This ATN research had a primary research question of: Does VR provide a viable training tool for Army Aviation? With a resounding answer of "Yes" to this question, our group looks to build upon this research and identify the differences between how students learn from a PowerPoint versus using the VR to train basic flight maneuvers prior to conducting live flight. 
 
-(Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
-
 Determine the propensity to produce a higher quality Army Aviator through the integration of a Virtual Reality Head Mounted Display (VR HMD) in combination with commercial off the shelf (COTS) flight software and cockpit simulators to compare training capabilities with students that receive the same instruction via PowerPoint presentations only.
 
-(Explain independent and dependent variables)
-
-(Motivation. Why is this problem interesting and relevant to the research community?)
+The independent variable is the method of training. The methods of training includes a powerpoint presentation and a flight simulation through vive eye pro. The dependent variables will be the sucess through each training method and the user satisfaction.
 
 Flight training is inherently expensive, and thus both military and civilian organizations are looking for ways to reduce their budget. The question remains: How do you safely reduce both the budget and live flight-time safely? This study is not designed to provide that final answer, however it should provide some foundational information to show that VR is a viable training tool and can provide a more robust training capability, instead of students sitting in a classroom learning from slideshow lectures. 
 
-(Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
 
 Quantitative analysis leverages a combination of experimental design and quasi-experimental design research. This experiment is composed of two experimental groups of 24 students, groups A and B, which are composed of 12 students each. Group A will conduct training through the use of PPT only and be tested in the VR device. Group B will conduct training in VR and be tested in the VR device as well. All testing will be conducted at Fort Rucker, AL and be managed by the Directorate of Simulation for the United States Army Aviation Center of Excellence. 
 
-""List the testing plan here""
 
+This project makes the following contributions:
 
-(Contributions. An enumeration of the contributions of the senior design project)
+Contribution 1: The results of this experiment will explain the postives and negatives of two different types of aviation training methods. With this knowledge, the Army can create training plans within UPT (undergraduate pilot training) that will provide a higher passing rate compared to previoius methods used in the past.
 
-(This project makes the following contributions:)(you must have this!!)
-•	(Contribution 1)
-•	(Contribution 2)
+Contribution 2: The results will aid researchers within the aviation sector to create technology that will help transform a better combat Army aviator. 
 
-
-## Related Work
-
-Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
 COMPONENT DESCRIPTION
 

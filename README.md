@@ -1,5 +1,5 @@
 # Research Practicum Spring 2023 – Research Plan
-(text between brackets to be removed)
+(Slides are uploaded as well however the demonstration video was removed due to size limits of GitHub uploads)
 
 > * Group Name: Cockpit Commander
 > * Group participants names: Faulkner, Erica; Levin, Ethan; McFarland, Chris

@@ -79,7 +79,7 @@ The Helimod device works just as a standard joystick would work, as a "plug-and-
 
 The necessary space for using this device for testing and future training is minimal and the current setup for testing included two devices next to each other with approximately four feet between each device for safety while entering and exiting. 
 
-HTC Vive Pro
+### HTC Vive Pro
 
 The primary tool used in this research and comparison is the head-mounted display (HMD). For this research project the HMD of choice is the HTC Vive Pro produced by the HTC Company. The HTC Vive Pro is an evolution of the original Vive product and boasts a field of view (FOV) of 110 degrees. A significant attribute of this HMD is that both the eye relief (distance between eyes and device) and interpupillary distance (IPD) are adjustable. This provides for a more individualized fitting and can make the training experience more enjoyable. The HTC Vive Pro is an excellent choice for using in this test because it is designed to work with SteamVR which is already installed and developed to work in conjunction with P3D. SteamVR is a well-known gaming platform that allows for many other gaming functions to include linked capabilities. However, we will not discuss nor test those options in this project. Minimum recommended computer requirements can be found in Figure 3. 
 

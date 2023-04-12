@@ -5,7 +5,7 @@
 > * Group participants names: Faulkner, Erica; Levin, Ethan; McFarland, Chris
 > * Project Title: VR vs. PPT for Pilot Training
 
-
+## Introduction
 Army Aviation consists of multiple levels of training, but all have one thing in common in that all Army qualified Aviators have graduated from the Basic Army Aviator Course (BAAC) at Fort Rucker, AL. This course is twenty-two weeks in length (give or take a few days for weather delays in flight training). During this time prospective graduates are maintained on cohort schedule, regardless of progression speed and capabilities. All training events during this time are completed by an Instructor Pilot (IP), and all students must complete this training, also known as Phase 1 of Army Aviator training. 
 
 There have been several studies and assessments completed by the Army over the last 20 years on how to best train combat aviators, but very little focus has been placed on training being completed through the use of Virtual Reality (VR) and how it effects comprehension and trainability of future aviators. Previous research on the use of VR has been completed through a project call Aviator Training Next (ATN) which included three-hour increments of training in a new simulation device designed and researched during a one-year research project conducted in Fort Rucker, AL. 
@@ -15,7 +15,7 @@ This ATN research had a primary research question of: Does VR provide a viable t
 The independent variable is the method of training. The methods of training include a PowerPoint presentation and a flight simulation through vive eye pro. The dependent variables will be the success through each training method and the user satisfaction.
 
 Flight training is inherently expensive, and thus both military and civilian organizations are looking for ways to reduce their budget. The question remains: How do you safely reduce both the budget and live flight-time safely? This study is not designed to provide that final answer, however it should provide some foundational information to show that VR is a viable training tool and can provide a more robust training capability, instead of students sitting in a classroom learning from slideshow lectures. 
-
+## Methodology
 Study Timeline for PowerPoint:
 
 * Complete informed consent, demographic survey, and Baseline Simulator Sickness Questionnaire (SSQ): 15 minutes
@@ -38,7 +38,7 @@ Study Timeline for VR Device:
 * Total Time: 55 minutes
 
 Quantitative analysis leverages a combination of experimental design and quasi-experimental design research. This experiment is composed of two experimental groups of 176 students, groups A and B, which are composed of 88 students each. Group A will conduct training through the use of PPT only and be tested in the VR device. Group B will conduct training in VR and be tested in the VR device as well. All testing will be conducted at Fort Rucker, AL, and will be managed by the Directorate of Simulation for the United States Army Aviation Center of Excellence. 
-
+## Contribution
 
 This project makes the following contributions:
 
@@ -47,9 +47,9 @@ Contribution 1: The results of this experiment will highlight the benefits and d
 Contribution 2: The results will aid researchers within the aviation sector in creating technology that will help transform a better combat Army aviator. 
 
 
-COMPONENT DESCRIPTION
+## Component Description
 
-What is VR?
+### What is VR?
 
 This section is designed merely to give you, the reader, a brief explanation of what VR is and how that definition pertains to this study. It is not intended to delve deep into the subject of defining a virtual environment, of which has multiple definitions of its own. 
   
@@ -63,7 +63,7 @@ Admittedly, there will be challenges with the incorporation of VR as a training 
   
 Not all VR is of the same quality, and of course as the quality, increases so does the price. However, costs continue to decrease with the rapid pace of technological innovations. The Army is in constant transition and is being left in the wake of current technological capabilities. Using VR as described in this study with the proper equipment is a viable option to augment the current training model for both classroom and flight training. 
 
-Prepar3D (P3D)
+### Prepar3D (P3D)
 
 Prepar3D (P3D) is a simulation software designed by Lockheed Martin and is a viable gaming and training software that possesses a multitude of uses for the military. Lockheed Martin plays a significant role in military development already, and this software just adds to their previous accomplishments. Prepar3D provides a wide range of scenarios and a virtual world consisting of over 40 highly detailed cities and nearly 25,000 already developed airports. Additional capabilities of this software are the ability to transition from day to night and adjust weather conditions for different training scenarios. 
 
@@ -71,7 +71,7 @@ Visual capabilities of this software outperform many other capable VR driving so
 
 Although this software is a commercial off-the-shelf (COTS) product, there are some limitations for the Army to use it as a training tool. Each computer that this software is loaded on must have its own individual license, and for a unit such as the Directorate of Simulation (DOS) to adjust the scenarios or flight models they must possess a developer license. Scenarios for this study were developed by a previous VR research study conducted on the capabilities of use in flight training, and PPT training was developed by the team members of this research project.  
 
-Hellimod Mark III
+### Helimod Mark III
 
 The Helimod device used in this research is a motion-capable seat augmented with flight controls. The motion capability was not used for this research because the primary focus of this study is a comparison between VR and PPT. The Helimod’s full name is the Helimod Mark III, and it is designed by the Australian based company Ryan Aerospace. These same devices were used during the ATN testing and currently have generic flight controls which do not use any of the possible buttons or switches during this test. 
 

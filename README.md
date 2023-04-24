@@ -53,7 +53,7 @@ Contribution 2: The results will aid researchers within the aviation sector in c
 ## Component Description
 
 ### What is VR?
-![](Images/Picture2.jpg)
+![](Images/)
 
 This section is designed merely to give you, the reader, a brief explanation of what VR is and how that definition pertains to this study. It is not intended to delve deep into the subject of defining a virtual environment, of which has multiple definitions of its own. 
   
@@ -68,6 +68,8 @@ Admittedly, there will be challenges with the incorporation of VR as a training 
 Not all VR is of the same quality, and of course as the quality, increases so does the price. However, costs continue to decrease with the rapid pace of technological innovations. The Army is in constant transition and is being left in the wake of current technological capabilities. Using VR as described in this study with the proper equipment is a viable option to augment the current training model for both classroom and flight training. 
 
 ### Prepar3D (P3D)
+![](Images/IMG_2776.jpg)
+
 
 Prepar3D (P3D) is a simulation software designed by Lockheed Martin and is a viable gaming and training software that possesses a multitude of uses for the military. Lockheed Martin plays a significant role in military development already, and this software just adds to their previous accomplishments. Prepar3D provides a wide range of scenarios and a virtual world consisting of over 40 highly detailed cities and nearly 25,000 already developed airports. Additional capabilities of this software are the ability to transition from day to night and adjust weather conditions for different training scenarios. 
 
@@ -84,6 +86,7 @@ The Helimod device works just as a standard joystick would work, as a "plug-and-
 The necessary space for using this device for testing and future training is minimal and the current setup for testing included two devices next to each other with approximately four feet between each device for safety while entering and exiting. 
 
 ### HTC Vive Pro
+![](Images/Picture2.jpg)
 
 The primary tool used in this research and comparison is the head-mounted display (HMD). For this research project the HMD of choice is the HTC Vive Pro produced by the HTC Company. The HTC Vive Pro is an evolution of the original Vive product and boasts a field of view (FOV) of 110 degrees. A significant attribute of this HMD is that both the eye relief (distance between eyes and device) and interpupillary distance (IPD) are adjustable. This provides for a more individualized fitting and can make the training experience more enjoyable. The HTC Vive Pro is an excellent choice for using in this test because it is designed to work with SteamVR which is already installed and developed to work in conjunction with P3D. SteamVR is a well-known gaming platform that allows for many other gaming functions to include linked capabilities. However, we will not discuss nor test those options in this project. Minimum recommended computer requirements can be found in Figure 3. 
 

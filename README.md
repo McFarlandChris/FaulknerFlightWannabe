@@ -5,6 +5,8 @@
 > * Group participants names: Faulkner, Erica; Levin, Ethan; McFarland, Chris
 > * Project Title: VR vs. PPT for Pilot Training
 
+![](Images/Picture1.jpg)
+
 ## Introduction
 Army Aviation consists of multiple levels of training, but all have one thing in common in that all Army qualified Aviators have graduated from the Basic Army Aviator Course (BAAC) at Fort Rucker, AL. This course is twenty-two weeks in length (give or take a few days for weather delays in flight training). During this time prospective graduates are maintained on cohort schedule, regardless of progression speed and capabilities. All training events during this time are completed by an Instructor Pilot (IP), and all students must complete this training, also known as Phase 1 of Army Aviator training. 
 
@@ -53,7 +55,6 @@ Contribution 2: The results will aid researchers within the aviation sector in c
 ## Component Description
 
 ### What is VR?
-![](Images/)
 
 This section is designed merely to give you, the reader, a brief explanation of what VR is and how that definition pertains to this study. It is not intended to delve deep into the subject of defining a virtual environment, of which has multiple definitions of its own. 
   

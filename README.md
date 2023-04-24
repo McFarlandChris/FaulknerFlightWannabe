@@ -53,6 +53,7 @@ Contribution 2: The results will aid researchers within the aviation sector in c
 ## Component Description
 
 ### What is VR?
+![](Images/Picture2.jpg)
 
 This section is designed merely to give you, the reader, a brief explanation of what VR is and how that definition pertains to this study. It is not intended to delve deep into the subject of defining a virtual environment, of which has multiple definitions of its own. 
   

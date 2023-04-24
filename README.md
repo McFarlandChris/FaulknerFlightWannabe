@@ -39,7 +39,7 @@ Study Timeline for VR Device:
 
 Quantitative analysis leverages a combination of experimental design and quasi-experimental design research. This experiment is composed of two experimental groups of 176 students, groups A and B, which are composed of 88 students each. Group A will conduct training through the use of PPT only and be tested in the VR device. Group B will conduct training in VR and be tested in the VR device as well. All testing will be conducted at Fort Rucker, AL, and will be managed by the Directorate of Simulation for the United States Army Aviation Center of Excellence.
 
-![]("C:\Users\ethan\Pictures\portfolio\69819067369__EAC926D6-1F33-48A7-A4D8-4886900BD974.jpg")
+![](images/Screenshot%202023-04-23%20232306.png)
 
 ## Contribution
 

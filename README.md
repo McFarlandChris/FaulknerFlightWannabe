@@ -94,15 +94,15 @@ The primary tool used in this research and comparison is the head-mounted displa
 
 
 ## Discussion
-It is apparent that this study will be successful if implemented to full capacity as briefed with maximum participation. With the small sample used to validate the process and capability to collect data, there are several key points that can help validate whether our hypothesis is accurate. All participants were able to pass the VR assessment and the average score was 90%. There are several recommendations that we would implement for a full execution of this research such as implementation of education of how trim works in the VR as well as implementing the Technical Acceptance Model (TAM) vice using the NASA TLX. There is supporting data from the proof of concept we conducted with two participants conducting the PPT training and two participants conducting training in VR to support the ability to answer the research problems attempting to address. 
+It is apparent that this study could be successful if implemented to full capacity as briefed with maximum participation. With the small sample used to validate the methodological process and capability to collect data, there are several key points that can help validate whether our hypothesis is accurate. All participants were able to pass the VR assessment, with the average score being 90%. There are several recommendations that we would implement for a full execution of this research, such as the implementation of education of how trim works in the VR, as well as implementing the Technical Acceptance Model (TAM) instead of using the NASA TLX. There is supporting data from the proof of concept we conducted with two participants conducting the PPT training and two participants conducting training in VR to support the ability to answer the research problems we addressed. 
 
-As a reminder those research problems are:
+As a reminder, those research problems are:
 
 •	Will training in a VR environment provide a more efficient method of flight training for novice pilots?
 
 •	What differences will be apparent with the comparison of VR and PowerPoint training?
 
-It is our team’s recommendation that this project continue to be researched if there are available assets. The anticipated data collected would provide key information on how to train future Army Aviators. 
+It is our team’s recommendation that this project continue to be further researched if there are available assets. The anticipated data collected could provide key information on how to more effectively train future Army Aviators. 
 
 
 
